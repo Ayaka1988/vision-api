@@ -57,3 +57,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'net-smtp'
+
+#環境変数を扱うためのgem(google vision apiのkey)
+gem 'dotenv-rails'
+
+gem 'google-cloud-vision'
